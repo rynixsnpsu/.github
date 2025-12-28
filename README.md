@@ -2,9 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/rynixsnpsu/.github/refs/heads/main/assets/logo.png" 
      alt="RYNIX Logo" 
-     width="180"/>
-
-## Rapid Youth Next-Gen Innovation Xecutioners
+     width="512"/>
+### Rapid Youth Next-Gen Innovation Xecutioners
 <br/>
 <p align="center">
   <strong>A Student-Led Innovation Collective at Sapthagiri NPS University</strong>
